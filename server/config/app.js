@@ -1,8 +1,9 @@
 /*File name: COMP229-F2022-MidTerm-301206792
 Author's name: Sharmaine Sanchez
 StudentID: 301206792
-WebApp name: Employee
+WebApp name: comp229-f2022-midterm-30120679
 */
+
 // moddules for node and express
 let createError = require("http-errors");
 let express = require("express");
