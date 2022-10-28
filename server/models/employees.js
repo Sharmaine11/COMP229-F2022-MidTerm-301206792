@@ -1,3 +1,9 @@
+/*File name: COMP229-F2022-MidTerm-301206792
+Author's name: Sharmaine Sanchez
+StudentID: 301206792
+WebApp name: Employee
+*/
+
 let mongoose = require("mongoose");
 
 // create a model class

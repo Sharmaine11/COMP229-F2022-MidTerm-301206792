@@ -1,3 +1,9 @@
+/*File name: COMP229-F2022-MidTerm-301206792
+Author's name: Sharmaine Sanchez
+StudentID: 301206792
+WebApp name: Employee
+*/
+
 // modules required for routing
 let express = require("express");
 let router = express.Router();

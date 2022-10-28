@@ -1,5 +1,7 @@
-/*File name: 
-Author's name: 
+/*File name: COMP229-F2022-MidTerm-301206792
+Author's name: Sharmaine Sanchez
+StudentID: 301206792
+WebApp name: Employee
 */
 // moddules for node and express
 let createError = require("http-errors");
